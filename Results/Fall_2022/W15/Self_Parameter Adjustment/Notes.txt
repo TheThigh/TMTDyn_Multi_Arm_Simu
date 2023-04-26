@@ -1,0 +1,3 @@
+2022.11.28
+1. Problem emerged for the test EBR modelling method with 3 links, the length of arm is 150 mm, the radius
+has not be changed, there exist redundant "end"s in massF4.m file.
