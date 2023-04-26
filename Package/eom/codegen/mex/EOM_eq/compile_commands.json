@@ -1,0 +1,86 @@
+[
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   EOM_eq_data.c /Fobuild\\win64\\EOM_eq_data.obj",
+    "file": "EOM_eq_data.c",
+    "output": "build/win64/EOM_eq_data.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   rt_nonfinite.c /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   EOM_eq_initialize.c /Fobuild\\win64\\EOM_eq_initialize.obj",
+    "file": "EOM_eq_initialize.c",
+    "output": "build/win64/EOM_eq_initialize.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   EOM_eq_terminate.c /Fobuild\\win64\\EOM_eq_terminate.obj",
+    "file": "EOM_eq_terminate.c",
+    "output": "build/win64/EOM_eq_terminate.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   EOM_eq.c /Fobuild\\win64\\EOM_eq.obj",
+    "file": "EOM_eq.c",
+    "output": "build/win64/EOM_eq.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   massF1.c /Fobuild\\win64\\massF1.obj",
+    "file": "massF1.c",
+    "output": "build/win64/massF1.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   power.c /Fobuild\\win64\\power.obj",
+    "file": "power.c",
+    "output": "build/win64/power.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   sprdmpF10.c /Fobuild\\win64\\sprdmpF10.obj",
+    "file": "sprdmpF10.c",
+    "output": "build/win64/sprdmpF10.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   massF2.c /Fobuild\\win64\\massF2.obj",
+    "file": "massF2.c",
+    "output": "build/win64/massF2.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   interface\\_coder_EOM_eq_api.c /Fobuild\\win64\\_coder_EOM_eq_api.obj",
+    "file": "interface/_coder_EOM_eq_api.c",
+    "output": "build/win64/_coder_EOM_eq_api.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   interface\\_coder_EOM_eq_mex.c /Fobuild\\win64\\_coder_EOM_eq_mex.obj",
+    "file": "interface/_coder_EOM_eq_mex.c",
+    "output": "build/win64/_coder_EOM_eq_mex.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   sqrt.c /Fobuild\\win64\\sqrt.obj",
+    "file": "sqrt.c",
+    "output": "build/win64/sqrt.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   interface\\_coder_EOM_eq_info.c /Fobuild\\win64\\_coder_EOM_eq_info.obj",
+    "file": "interface/_coder_EOM_eq_info.c",
+    "output": "build/win64/_coder_EOM_eq_info.obj"
+  },
+  {
+    "directory": "D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\\codegen\\mex\\EOM_eq",
+    "command": "cl /c /Zc:__cplusplus /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /utf-8 /I \".\" /I \"D:\\R - Clemson\\SRA Program\\Simulation Package\\TMTDyn_2_Arm_Backpack\\V002\\eom\" /I \".\\interface\" /I \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\include\" /I \".\" -DMODEL=EOM_eq_mex   \"E:\\SOFTWARE\\DARK TECH\\MathWorks\\extern\\version\\c_mexapi_version.c\" /Fobuild\\win64\\c_mexapi_version.obj",
+    "file": "E:/SOFTWARE/DARK TECH/MathWorks/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.obj"
+  }
+]
