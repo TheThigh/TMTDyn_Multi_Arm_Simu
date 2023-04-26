@@ -1,0 +1,4 @@
+2022.12.02
+1. Error emgerged for n=2, l=150mm SRA, the error indicated that the step size was set too small for 
+radau solver, but it seems fine for l=100mm.
+2. Simulation failed again for n=2, l=100mm.
